@@ -1,5 +1,5 @@
 # atividade_2.py
-# Autor: Rafael De Freitas Fiel
+# Nome: Rafael De Freitas Fiel
 # Disciplina: Estrutura de Dados II
 
 from graphviz import Digraph
